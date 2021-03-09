@@ -1,0 +1,176 @@
+{
+  "rocketGun": true,
+  "preset_cost": 10,
+  "bullets": 1,
+  "shotFreq": 3.0,
+  "sound_path": "tanks/weapon_tanks/rockets",
+  "sound_pathStudio": "ground/weapon/rockets",
+  "sound": "82mm_m8",
+  "sound_inside": "82mm_m8_interior",
+  "isBulletBelt": false,
+  "helicopterGroup": 2,
+  "reloadTime": 8.0,
+  "allowHumanReload": true,
+  "mesh": "m_8_rocket",
+  "tags": {
+    "antiTankRocket": true,
+    "antiShipRocket": true
+  },
+  "rocket": {
+    "normalizationPreset": "heat",
+    "ricochetPreset": "he",
+    "secondaryShattersPreset": "ap_rocket",
+    "stabilityThreshold": 0.05,
+    "stabilityCaliberToArmorThreshold": 5.0,
+    "stabilityReductionAfterRicochet": 0.5,
+    "stabilityReductionAfterPenetration": 0.15,
+    "bulletType": "rocket_tank",
+    "slopeEffectPreset": "ap",
+    "fresnel": [0.23,0.1,2.0],
+    "explodeOnRendinst": true,
+    "useEffectiveArmorThicknessForShatter": true,
+    "bulletName": "82mm_m_8",
+    "caliber": 0.082,
+    "mass": 7.84,
+    "massEnd": 3.7,
+    "maxDeltaAngle": 0.5,
+    "dragCx": 0.007,
+    "length": 0.68,
+    "distFromCmToStab": 0.01,
+    "CxK": 0.1,
+    "WdK": [0.1,0.1,0.1],
+    "force": 4500.0,
+    "timeFire": 0.87,
+    "thrustDeviation": 0.003,
+    "explosionEffect": "hit_106_132mm_metal_he",
+    "groundCollisionEffect": "hit_106_132mm_dirt_he",
+    "ricochetEffect": "hit_106_132mm_metal_ap",
+    "waterCollisionEffect": "hit_106_132mm_water",
+    "explosionPatchRadius": 3.5,
+    "fireEffect": "rocket_fire_light_multiple",
+    "smokeEffect": "",
+    "hazeEffect": "haze_missile",
+    "endSmokeViscosity": 0.05,
+    "maxDistance": 6500.0,
+    "minDistance": 30.0,
+    "spawnExplosionWreckage": false,
+    "spawnExplosionFx": false,
+    "explosionOffset": 0.05,
+    "hitPowerMult": 1.0,
+    "nearHitPower": [1.0,50.0],
+    "midHitPower": [0.9,400.0],
+    "farHitPower": [0.1,1000.0],
+    "endHitPower": [0.01,1500.0],
+    "relativeVelHitShift": [300.0,1000.0],
+    "nearArmorPower": [2.0,50.0],
+    "midArmorPower": [1.0,400.0],
+    "farArmorPower": [0.2,700.0],
+    "relativeVelArmorShift": [200.0,1000.0],
+    "distanceFuse": false,
+    "explodeTreshold": 0.1,
+    "explodeHitPower": 120.0,
+    "explodeArmorPower": 24.0,
+    "explodeRadius": [0.3,1.0],
+    "rendinstDamageRadius": 4.0,
+    "statType": "hydra",
+    "shutterDamage": true,
+    "shutterDamageRadius": 15.0,
+    "shutterAmount": 800,
+    "shutterArmorPower": 7.0,
+    "shutterHit": 15.0,
+    "advancedMissiles": false,
+    "useStartSpeed": true,
+    "startSpeed": 50.0,
+    "endSpeed": 260.0,
+    "price": 3000.0,
+    "stabilityRicochetModifier": {
+      "mod1": [0.0,0.5],
+      "mod2": [20.0,0.6],
+      "mod3": [30.0,1.0]
+    },
+    "collisions": {
+      "default": {
+        "fx": "hit_106_132mm_dirt_he"
+      },
+      "horLandMesh": {
+        "fx": "hit_106_132mm_dirt_he"
+      },
+      "soil": {
+        "fx": "hit_106_132mm_dirt_he"
+      },
+      "dirt": {
+        "fx": "hit_106_132mm_dirt_he"
+      },
+      "road": {
+        "fx": "hit_106_132mm_dirt_he"
+      },
+      "roadSoil": {
+        "fx": "hit_106_132mm_dirt_he"
+      },
+      "sand": {
+        "fx": "hit_106_132mm_sand_he"
+      },
+      "duneSand": {
+        "fx": "hit_106_132mm_sand_he"
+      },
+      "roadSand": {
+        "fx": "hit_106_132mm_sand_he"
+      },
+      "quickSand": {
+        "fx": "hit_106_132mm_sand_he"
+      },
+      "snow": {
+        "fx": "hit_106_132mm_snow_he"
+      },
+      "ice": {
+        "fx": "hit_106_132mm_snow_he"
+      },
+      "roadSnow": {
+        "fx": "hit_106_132mm_snow_he"
+      },
+      "snowLower": {
+        "fx": "hit_106_132mm_snow_he"
+      },
+      "glass": {
+        "fx": "hit_106_132mm_metal_he"
+      },
+      "wood": {
+        "fx": "hit_106_132mm_wood_he"
+      },
+      "steel": {
+        "fx": "hit_106_132mm_metal_he"
+      },
+      "metal": {
+        "fx": "hit_106_132mm_metal_he"
+      },
+      "buildings": {
+        "fx": "hit_106_132mm_stone_he"
+      },
+      "verLandMesh": {
+        "fx": "hit_106_132mm_stone_he"
+      },
+      "concrete": {
+        "fx": "hit_106_132mm_stone_he"
+      },
+      "rocks": {
+        "fx": "hit_106_132mm_stone_he"
+      },
+      "rocksSlippery": {
+        "fx": "hit_106_132mm_stone_he"
+      },
+      "fabric": {
+        "fx": "hit_106_132mm_stone_he"
+      },
+      "stone_snow": {
+        "fx": "hit_106_132mm_snow_he"
+      }
+    },
+    "DamageParts": {
+      "body": {
+        "hp": 5.0,
+        "armorClass": "tank_structural_steel",
+        "armorThickness": 1.0
+      }
+    }
+  }
+}

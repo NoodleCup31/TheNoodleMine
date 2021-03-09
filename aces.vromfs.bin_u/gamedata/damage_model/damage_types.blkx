@@ -1,0 +1,18 @@
+{
+  "generic": [],
+  "genericLongRod": {
+    "inherit": "generic"
+  },
+  "explosion": [],
+  "shatter": [],
+  "secondaryShatter": [],
+  "fire": [],
+  "cumulative": [],
+  "collision": [],
+  "drowning": [],
+  "laserBeam": [],
+  "fireExplosion": {
+    "inherit": "explosion"
+  },
+  "pressure": []
+}

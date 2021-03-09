@@ -1,0 +1,259 @@
+{
+  "rocketGun": true,
+  "preset_cost": 50,
+  "shotFreq": 1000.25,
+  "sound": "weapon.rocketgun_132",
+  "helicopterGroup": 2,
+  "mesh": "de_210mm",
+  "tags": {
+    "antiTankRocket": true,
+    "antiShipRocket": true
+  },
+  "rocket": [
+    {
+      "selfDestructionInAir": true
+    },
+    {
+      "maxDistance": 1500.0
+    },
+    {
+      "caliber": 0.21
+    },
+    {
+      "mass": 110.9
+    },
+    {
+      "explosiveType": "fp60_40"
+    },
+    {
+      "normalizationPreset": "heat"
+    },
+    {
+      "ricochetPreset": "he"
+    },
+    {
+      "secondaryShattersPreset": "ap_rocket"
+    },
+    {
+      "stabilityThreshold": 0.05
+    },
+    {
+      "stabilityCaliberToArmorThreshold": 5.0
+    },
+    {
+      "stabilityReductionAfterRicochet": 0.5
+    },
+    {
+      "stabilityReductionAfterPenetration": 0.15
+    },
+    {
+      "bulletType": "rocket_tank"
+    },
+    {
+      "slopeEffectPreset": "ap"
+    },
+    {
+      "fresnel": [0.23,0.1,2.0]
+    },
+    {
+      "explodeOnRendinst": true
+    },
+    {
+      "useEffectiveArmorThicknessForShatter": true
+    },
+    {
+      "explosiveMass": 10.1
+    },
+    {
+      "massEnd": 80.0
+    },
+    {
+      "maxDeltaAngle": 3.5
+    },
+    {
+      "dragCx": 0.067
+    },
+    {
+      "length": 1.26
+    },
+    {
+      "distFromCmToStab": 0.01
+    },
+    {
+      "CxK": 0.01
+    },
+    {
+      "WdK": [0.1,0.1,0.1]
+    },
+    {
+      "force": 36000.0
+    },
+    {
+      "timeFire": 1.0
+    },
+    {
+      "spawnExplosionFx": false
+    },
+    {
+      "spawnExplosionWreckage": false
+    },
+    {
+      "explosionEffect": "explosion_midair_big"
+    },
+    {
+      "groundCollisionEffect": "bomb_expl_50kg"
+    },
+    {
+      "ricochetEffect": "cannon_ricochet"
+    },
+    {
+      "waterCollisionEffect": "120-203_he_water_splash"
+    },
+    {
+      "explosionPatchRadius": 4.0
+    },
+    {
+      "fireEffect": "rocket_fire_dark"
+    },
+    {
+      "smokeEffect": ""
+    },
+    {
+      "hazeEffect": "haze_missile"
+    },
+    {
+      "endSmokeViscosity": 0.05
+    },
+    {
+      "maxDistance": 5500.0
+    },
+    {
+      "minDistance": 30.0
+    },
+    {
+      "hitPowerMult": 1.0
+    },
+    {
+      "nearHitPower": [1.0,50.0]
+    },
+    {
+      "midHitPower": [0.9,400.0]
+    },
+    {
+      "farHitPower": [0.1,1000.0]
+    },
+    {
+      "endHitPower": [0.01,1500.0]
+    },
+    {
+      "relativeVelHitShift": [300.0,1000.0]
+    },
+    {
+      "nearArmorPower": [10.0,50.0]
+    },
+    {
+      "midArmorPower": [7.0,400.0]
+    },
+    {
+      "farArmorPower": [0.2,700.0]
+    },
+    {
+      "relativeVelArmorShift": [200.0,1000.0]
+    },
+    {
+      "explodeTreshold": 0.01
+    },
+    {
+      "explodeHitPower": 500.0
+    },
+    {
+      "explodeArmorPower": 75.0
+    },
+    {
+      "explodeRadius": [1.3,5.0]
+    },
+    {
+      "rendinstDamageRadius": 15.0
+    },
+    {
+      "statType": "hydra"
+    },
+    {
+      "shutterDamage": true
+    },
+    {
+      "shutterDamageRadius": 50.0
+    },
+    {
+      "shutterAmount": 2500
+    },
+    {
+      "shutterArmorPower": 10.0
+    },
+    {
+      "shutterHit": 20.0
+    },
+    {
+      "useStartSpeed": true
+    },
+    {
+      "startSpeed": 30.0
+    },
+    {
+      "endSpeed": 800.0
+    },
+    {
+      "maxSpeed": 320.0
+    },
+    {
+      "advancedMissiles": false
+    },
+    {
+      "autoaimEnabled": false
+    },
+    {
+      "aiGroundOnly": false
+    },
+    {
+      "aiAirOnly": false
+    },
+    {
+      "amountPerTier": 1.0
+    },
+    {
+      "iconType": "rockets_he_large"
+    },
+    {
+      "stabilityRicochetModifier": {
+        "mod1": [0.0,0.5],
+        "mod2": [20.0,0.6],
+        "mod3": [30.0,1.0]
+      }
+    },
+    {
+      "collisions": {
+        "steel": {
+          "fx": "explosion_midair_small"
+        },
+        "armor": {
+          "fx": "explosion_midair_small"
+        },
+        "buildings": {
+          "fx": "explosion_midair_small"
+        },
+        "wood": {
+          "fx": "explosion_midair_small"
+        }
+      }
+    },
+    {
+      "DamageParts": {
+        "body": {
+          "hp": 5.0,
+          "armorClass": "tank_structural_steel",
+          "armorThickness": 1.0
+        }
+      }
+    }
+  ]
+}

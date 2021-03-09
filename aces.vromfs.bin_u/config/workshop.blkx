@@ -1,0 +1,2985 @@
+{
+  "warbond_trophy_exchange": {
+    "locId": "item/trophy",
+    "reqFeature": "ConsolesWorkshopExchange",
+    "items": [
+      {
+        "alwaysVisibleItem": 760017
+      },
+      {
+        "alwaysVisibleItem": 760018
+      },
+      {
+        "alwaysVisibleItem": 760061
+      },
+      {
+        "alwaysVisibleItem": 760062
+      },
+      {
+        "alwaysVisibleItem": 760126
+      },
+      {
+        "alwaysVisibleItem": 760127
+      }
+    ]
+  },
+  "camo_trophy_exchange": [
+    {
+      "locId": "workshop/camo_trophy_exchange"
+    },
+    {
+      "reqFeature": "ConsolesWorkshopUgcExchange"
+    },
+    {
+      "hasSubsets": true
+    },
+    {
+      "items": [
+        {
+          "setId": "hot_tracks"
+        },
+        {
+          "locId": "workshop/hot_tracks"
+        },
+        {
+          "alwaysVisibleItem": 660204
+        },
+        {
+          "alwaysVisibleItem": 660208
+        },
+        {
+          "alwaysVisibleItem": 660209
+        },
+        {
+          "alwaysVisibleItem": 660210
+        },
+        {
+          "alwaysVisibleItem": 660211
+        },
+        {
+          "alwaysVisibleItem": 660212
+        },
+        {
+          "alwaysVisibleItem": 660213
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "setId": "new_power"
+        },
+        {
+          "locId": "workshop/new_power"
+        },
+        {
+          "alwaysVisibleItem": 760194
+        },
+        {
+          "alwaysVisibleItem": 760198
+        },
+        {
+          "alwaysVisibleItem": 760199
+        },
+        {
+          "alwaysVisibleItem": 660200
+        },
+        {
+          "alwaysVisibleItem": 660201
+        },
+        {
+          "alwaysVisibleItem": 660202
+        },
+        {
+          "alwaysVisibleItem": 660203
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "setId": "raining_fire"
+        },
+        {
+          "locId": "workshop/raining_fire"
+        },
+        {
+          "alwaysVisibleItem": 760184
+        },
+        {
+          "alwaysVisibleItem": 760188
+        },
+        {
+          "alwaysVisibleItem": 760189
+        },
+        {
+          "alwaysVisibleItem": 760190
+        },
+        {
+          "alwaysVisibleItem": 760191
+        },
+        {
+          "alwaysVisibleItem": 760192
+        },
+        {
+          "alwaysVisibleItem": 760193
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "setId": "starfighters"
+        },
+        {
+          "locId": "workshop/starfighters"
+        },
+        {
+          "alwaysVisibleItem": 760174
+        },
+        {
+          "alwaysVisibleItem": 760178
+        },
+        {
+          "alwaysVisibleItem": 760179
+        },
+        {
+          "alwaysVisibleItem": 760180
+        },
+        {
+          "alwaysVisibleItem": 760181
+        },
+        {
+          "alwaysVisibleItem": 760182
+        },
+        {
+          "alwaysVisibleItem": 760183
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "setId": "viking_fury_test"
+        },
+        {
+          "locId": "workshop/viking_fury_test"
+        },
+        {
+          "reqFeature": "debugWorkshopItemsExchange"
+        },
+        {
+          "alwaysVisibleItem": 760164
+        },
+        {
+          "alwaysVisibleItem": 760168
+        },
+        {
+          "alwaysVisibleItem": 760169
+        },
+        {
+          "alwaysVisibleItem": 760170
+        },
+        {
+          "alwaysVisibleItem": 760171
+        },
+        {
+          "alwaysVisibleItem": 760172
+        },
+        {
+          "alwaysVisibleItem": 760173
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "setId": "viking_fury"
+        },
+        {
+          "locId": "workshop/viking_fury"
+        },
+        {
+          "alwaysVisibleItem": 760152
+        },
+        {
+          "alwaysVisibleItem": 760156
+        },
+        {
+          "alwaysVisibleItem": 760157
+        },
+        {
+          "alwaysVisibleItem": 760158
+        },
+        {
+          "alwaysVisibleItem": 760159
+        },
+        {
+          "alwaysVisibleItem": 760160
+        },
+        {
+          "alwaysVisibleItem": 760161
+        },
+        {
+          "alwaysVisibleItem": 760162
+        },
+        {
+          "alwaysVisibleItem": 760163
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "setId": "northern_wind"
+        },
+        {
+          "locId": "workshop/northern_wind"
+        },
+        {
+          "alwaysVisibleItem": 760140
+        },
+        {
+          "alwaysVisibleItem": 760144
+        },
+        {
+          "alwaysVisibleItem": 760145
+        },
+        {
+          "alwaysVisibleItem": 760146
+        },
+        {
+          "alwaysVisibleItem": 760147
+        },
+        {
+          "alwaysVisibleItem": 760148
+        },
+        {
+          "alwaysVisibleItem": 760149
+        },
+        {
+          "alwaysVisibleItem": 760150
+        },
+        {
+          "alwaysVisibleItem": 760151
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "setId": "night_vision"
+        },
+        {
+          "locId": "workshop/night_vision"
+        },
+        {
+          "alwaysVisibleItem": 760128
+        },
+        {
+          "alwaysVisibleItem": 760132
+        },
+        {
+          "alwaysVisibleItem": 760133
+        },
+        {
+          "alwaysVisibleItem": 760134
+        },
+        {
+          "alwaysVisibleItem": 760135
+        },
+        {
+          "alwaysVisibleItem": 760136
+        },
+        {
+          "alwaysVisibleItem": 760137
+        },
+        {
+          "alwaysVisibleItem": 760138
+        },
+        {
+          "alwaysVisibleItem": 760139
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "setId": "imperial_navy_i"
+        },
+        {
+          "locId": "workshop/imperial_navy_i"
+        },
+        {
+          "alwaysVisibleItem": 760114
+        },
+        {
+          "alwaysVisibleItem": 760118
+        },
+        {
+          "alwaysVisibleItem": 760119
+        },
+        {
+          "alwaysVisibleItem": 760120
+        },
+        {
+          "alwaysVisibleItem": 760121
+        },
+        {
+          "alwaysVisibleItem": 760122
+        },
+        {
+          "alwaysVisibleItem": 760123
+        },
+        {
+          "alwaysVisibleItem": 760124
+        },
+        {
+          "alwaysVisibleItem": 760125
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "setId": "locked_on_i"
+        },
+        {
+          "locId": "workshop/locked_on_i"
+        },
+        {
+          "alwaysVisibleItem": 760102
+        },
+        {
+          "alwaysVisibleItem": 760106
+        },
+        {
+          "alwaysVisibleItem": 760107
+        },
+        {
+          "alwaysVisibleItem": 760108
+        },
+        {
+          "alwaysVisibleItem": 760109
+        },
+        {
+          "alwaysVisibleItem": 760110
+        },
+        {
+          "alwaysVisibleItem": 760111
+        },
+        {
+          "alwaysVisibleItem": 760112
+        },
+        {
+          "alwaysVisibleItem": 760113
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "setId": "supersonic_i"
+        },
+        {
+          "locId": "workshop/supersonic_i"
+        },
+        {
+          "alwaysVisibleItem": 760089
+        },
+        {
+          "alwaysVisibleItem": 760093
+        },
+        {
+          "alwaysVisibleItem": 760094
+        },
+        {
+          "alwaysVisibleItem": 760095
+        },
+        {
+          "alwaysVisibleItem": 760096
+        },
+        {
+          "alwaysVisibleItem": 760097
+        },
+        {
+          "alwaysVisibleItem": 760098
+        },
+        {
+          "alwaysVisibleItem": 760099
+        },
+        {
+          "alwaysVisibleItem": 760100
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "setId": "valkyrie_i"
+        },
+        {
+          "locId": "workshop/valkyrie_i"
+        },
+        {
+          "alwaysVisibleItem": 760065
+        },
+        {
+          "alwaysVisibleItem": 760069
+        },
+        {
+          "alwaysVisibleItem": 760070
+        },
+        {
+          "alwaysVisibleItem": 760071
+        },
+        {
+          "alwaysVisibleItem": 760072
+        },
+        {
+          "alwaysVisibleItem": 760073
+        },
+        {
+          "alwaysVisibleItem": 760074
+        },
+        {
+          "alwaysVisibleItem": 760075
+        },
+        {
+          "alwaysVisibleItem": 760076
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "setId": "project_x_ii"
+        },
+        {
+          "locId": "workshop/project_x_ii"
+        },
+        {
+          "alwaysVisibleItem": 760049
+        },
+        {
+          "alwaysVisibleItem": 760053
+        },
+        {
+          "alwaysVisibleItem": 760054
+        },
+        {
+          "alwaysVisibleItem": 760055
+        },
+        {
+          "alwaysVisibleItem": 760056
+        },
+        {
+          "alwaysVisibleItem": 760057
+        },
+        {
+          "alwaysVisibleItem": 760058
+        },
+        {
+          "alwaysVisibleItem": 760059
+        },
+        {
+          "alwaysVisibleItem": 760060
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "setId": "project_x"
+        },
+        {
+          "locId": "workshop/project_x"
+        },
+        {
+          "alwaysVisibleItem": 760036
+        },
+        {
+          "alwaysVisibleItem": 760040
+        },
+        {
+          "alwaysVisibleItem": 760041
+        },
+        {
+          "alwaysVisibleItem": 760042
+        },
+        {
+          "alwaysVisibleItem": 760043
+        },
+        {
+          "alwaysVisibleItem": 760044
+        },
+        {
+          "alwaysVisibleItem": 760045
+        },
+        {
+          "alwaysVisibleItem": 760046
+        },
+        {
+          "alwaysVisibleItem": 760047
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "setId": "advancing_storm"
+        },
+        {
+          "locId": "workshop/advancing_storm"
+        },
+        {
+          "alwaysVisibleItem": 760020
+        },
+        {
+          "alwaysVisibleItem": 760024
+        },
+        {
+          "alwaysVisibleItem": 760025
+        },
+        {
+          "alwaysVisibleItem": 760026
+        },
+        {
+          "alwaysVisibleItem": 760027
+        },
+        {
+          "alwaysVisibleItem": 760028
+        },
+        {
+          "alwaysVisibleItem": 760029
+        },
+        {
+          "alwaysVisibleItem": 760030
+        },
+        {
+          "alwaysVisibleItem": 760031
+        }
+      ]
+    }
+  ],
+  "winter_2021_exchange": {
+    "locId": "workshop/winter_2021_exchange",
+    "reqFeature": "DMMandPS4andXBOXAccount",
+    "items": [
+      {
+        "alwaysVisibleItem": 760077
+      },
+      {
+        "alwaysVisibleItem": 760078
+      },
+      {
+        "alwaysVisibleItem": 760079
+      },
+      {
+        "alwaysVisibleItem": 760080
+      },
+      {
+        "alwaysVisibleItem": 760081
+      },
+      {
+        "alwaysVisibleItem": 760082
+      },
+      {
+        "alwaysVisibleItem": 760231
+      },
+      {
+        "alwaysVisibleItem": 760232
+      },
+      {
+        "alwaysVisibleItem": 760233
+      },
+      {
+        "alwaysVisibleItem": 760234
+      },
+      {
+        "alwaysVisibleItem": 760235
+      },
+      {
+        "alwaysVisibleItem": 760236
+      },
+      {
+        "alwaysVisibleItem": 760237
+      }
+    ]
+  },
+  "summer_2020_ps4_exchange": {
+    "locId": "workshop/summer_2020_exchange",
+    "reqFeature": "DMMandPS4andXBOXAccount",
+    "items": [
+      {
+        "alwaysVisibleItem": 760213
+      },
+      {
+        "alwaysVisibleItem": 760214
+      },
+      {
+        "alwaysVisibleItem": 760215
+      },
+      {
+        "alwaysVisibleItem": 760216
+      },
+      {
+        "alwaysVisibleItem": 760217
+      },
+      {
+        "alwaysVisibleItem": 760218
+      },
+      {
+        "alwaysVisibleItem": 760219
+      },
+      {
+        "alwaysVisibleItem": 760220
+      },
+      {
+        "alwaysVisibleItem": 760221
+      },
+      {
+        "alwaysVisibleItem": 760222
+      },
+      {
+        "alwaysVisibleItem": 760223
+      },
+      {
+        "alwaysVisibleItem": 760224
+      },
+      {
+        "alwaysVisibleItem": 760225
+      },
+      {
+        "alwaysVisibleItem": 760226
+      }
+    ]
+  },
+  "summer_2019_ps4_exchange": {
+    "locId": "workshop/summer_2019_exchange",
+    "reqFeature": "DMMandPS4andXBOXAccount",
+    "items": [
+      {
+        "alwaysVisibleItem": 760200
+      },
+      {
+        "alwaysVisibleItem": 760201
+      },
+      {
+        "alwaysVisibleItem": 760202
+      },
+      {
+        "alwaysVisibleItem": 760203
+      },
+      {
+        "alwaysVisibleItem": 760204
+      },
+      {
+        "alwaysVisibleItem": 760205
+      },
+      {
+        "alwaysVisibleItem": 760206
+      },
+      {
+        "alwaysVisibleItem": 760207
+      },
+      {
+        "alwaysVisibleItem": 760208
+      },
+      {
+        "alwaysVisibleItem": 760209
+      },
+      {
+        "alwaysVisibleItem": 760210
+      },
+      {
+        "alwaysVisibleItem": 760211
+      },
+      {
+        "alwaysVisibleItem": 760212
+      }
+    ]
+  },
+  "additionalRecipes": [
+    {
+      "item": {
+        "id": 800001,
+        "trueRecipe": 800002
+      }
+    },
+    {
+      "item": [
+        {
+          "id": 2800100
+        },
+        {
+          "trueRecipe": 2800101
+        },
+        {
+          "trueRecipe": 2800104
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800110
+        },
+        {
+          "trueRecipe": 2800111
+        },
+        {
+          "trueRecipe": 2800114
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800120
+        },
+        {
+          "trueRecipe": 2800121
+        },
+        {
+          "trueRecipe": 2800124
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800130
+        },
+        {
+          "trueRecipe": 2800131
+        },
+        {
+          "trueRecipe": 2800134
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800140
+        },
+        {
+          "trueRecipe": 2800141
+        },
+        {
+          "trueRecipe": 2800144
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800150
+        },
+        {
+          "trueRecipe": 2800151
+        },
+        {
+          "trueRecipe": 2800154
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800160
+        },
+        {
+          "trueRecipe": 2800161
+        },
+        {
+          "trueRecipe": 2800164
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800170
+        },
+        {
+          "trueRecipe": 2800171
+        },
+        {
+          "trueRecipe": 2800174
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800180
+        },
+        {
+          "trueRecipe": 2800181
+        },
+        {
+          "trueRecipe": 2800184
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800190
+        },
+        {
+          "trueRecipe": 2800191
+        },
+        {
+          "trueRecipe": 2800194
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800200
+        },
+        {
+          "trueRecipe": 2800201
+        },
+        {
+          "trueRecipe": 2800204
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800210
+        },
+        {
+          "trueRecipe": 2800211
+        },
+        {
+          "trueRecipe": 2800214
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800220
+        },
+        {
+          "trueRecipe": 2800221
+        },
+        {
+          "trueRecipe": 2800224
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800230
+        },
+        {
+          "trueRecipe": 2800231
+        },
+        {
+          "trueRecipe": 2800234
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800240
+        },
+        {
+          "trueRecipe": 2800241
+        },
+        {
+          "trueRecipe": 2800244
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800250
+        },
+        {
+          "trueRecipe": 2800251
+        },
+        {
+          "trueRecipe": 2800254
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800260
+        },
+        {
+          "trueRecipe": 2800261
+        },
+        {
+          "trueRecipe": 2800264
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800270
+        },
+        {
+          "trueRecipe": 2800271
+        },
+        {
+          "trueRecipe": 2800274
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800280
+        },
+        {
+          "trueRecipe": 2800281
+        },
+        {
+          "trueRecipe": 2800284
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800290
+        },
+        {
+          "trueRecipe": 2800291
+        },
+        {
+          "trueRecipe": 2800294
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800300
+        },
+        {
+          "trueRecipe": 2800301
+        },
+        {
+          "trueRecipe": 2800304
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800310
+        },
+        {
+          "trueRecipe": 2800311
+        },
+        {
+          "trueRecipe": 2800314
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800320
+        },
+        {
+          "trueRecipe": 2800321
+        },
+        {
+          "trueRecipe": 2800324
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800330
+        },
+        {
+          "trueRecipe": 2800331
+        },
+        {
+          "trueRecipe": 2800334
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800340
+        },
+        {
+          "trueRecipe": 2800341
+        },
+        {
+          "trueRecipe": 2800344
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800350
+        },
+        {
+          "trueRecipe": 2800351
+        },
+        {
+          "trueRecipe": 2800354
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800360
+        },
+        {
+          "trueRecipe": 2800361
+        },
+        {
+          "trueRecipe": 2800364
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800370
+        },
+        {
+          "trueRecipe": 2800371
+        },
+        {
+          "trueRecipe": 2800374
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800380
+        },
+        {
+          "trueRecipe": 2800381
+        },
+        {
+          "trueRecipe": 2800384
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2800390
+        },
+        {
+          "trueRecipe": 2800391
+        },
+        {
+          "trueRecipe": 2800394
+        }
+      ]
+    },
+    {
+      "item": {
+        "id": 2800500,
+        "trueRecipe": 2800501
+      }
+    },
+    {
+      "item": [
+        {
+          "id": 2801100
+        },
+        {
+          "trueRecipe": 2801101
+        },
+        {
+          "trueRecipe": 2801104
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801110
+        },
+        {
+          "trueRecipe": 2801111
+        },
+        {
+          "trueRecipe": 2801114
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801120
+        },
+        {
+          "trueRecipe": 2801121
+        },
+        {
+          "trueRecipe": 2801124
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801130
+        },
+        {
+          "trueRecipe": 2801131
+        },
+        {
+          "trueRecipe": 2801134
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801140
+        },
+        {
+          "trueRecipe": 2801141
+        },
+        {
+          "trueRecipe": 2801144
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801150
+        },
+        {
+          "trueRecipe": 2801151
+        },
+        {
+          "trueRecipe": 2801154
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801160
+        },
+        {
+          "trueRecipe": 2801161
+        },
+        {
+          "trueRecipe": 2801164
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801170
+        },
+        {
+          "trueRecipe": 2801171
+        },
+        {
+          "trueRecipe": 2801174
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801180
+        },
+        {
+          "trueRecipe": 2801181
+        },
+        {
+          "trueRecipe": 2801184
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801190
+        },
+        {
+          "trueRecipe": 2801191
+        },
+        {
+          "trueRecipe": 2801194
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801200
+        },
+        {
+          "trueRecipe": 2801201
+        },
+        {
+          "trueRecipe": 2801204
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801210
+        },
+        {
+          "trueRecipe": 2801211
+        },
+        {
+          "trueRecipe": 2801214
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801220
+        },
+        {
+          "trueRecipe": 2801221
+        },
+        {
+          "trueRecipe": 2801224
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801230
+        },
+        {
+          "trueRecipe": 2801231
+        },
+        {
+          "trueRecipe": 2801234
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801240
+        },
+        {
+          "trueRecipe": 2801241
+        },
+        {
+          "trueRecipe": 2801244
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801250
+        },
+        {
+          "trueRecipe": 2801251
+        },
+        {
+          "trueRecipe": 2801254
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801260
+        },
+        {
+          "trueRecipe": 2801261
+        },
+        {
+          "trueRecipe": 2801264
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801270
+        },
+        {
+          "trueRecipe": 2801271
+        },
+        {
+          "trueRecipe": 2801274
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801280
+        },
+        {
+          "trueRecipe": 2801281
+        },
+        {
+          "trueRecipe": 2801284
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801290
+        },
+        {
+          "trueRecipe": 2801291
+        },
+        {
+          "trueRecipe": 2801294
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801300
+        },
+        {
+          "trueRecipe": 2801301
+        },
+        {
+          "trueRecipe": 2801304
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801310
+        },
+        {
+          "trueRecipe": 2801311
+        },
+        {
+          "trueRecipe": 2801314
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801320
+        },
+        {
+          "trueRecipe": 2801321
+        },
+        {
+          "trueRecipe": 2801324
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801330
+        },
+        {
+          "trueRecipe": 2801331
+        },
+        {
+          "trueRecipe": 2801334
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801340
+        },
+        {
+          "trueRecipe": 2801341
+        },
+        {
+          "trueRecipe": 2801344
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801350
+        },
+        {
+          "trueRecipe": 2801351
+        },
+        {
+          "trueRecipe": 2801354
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801360
+        },
+        {
+          "trueRecipe": 2801361
+        },
+        {
+          "trueRecipe": 2801364
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801370
+        },
+        {
+          "trueRecipe": 2801371
+        },
+        {
+          "trueRecipe": 2801374
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801380
+        },
+        {
+          "trueRecipe": 2801381
+        },
+        {
+          "trueRecipe": 2801384
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2801390
+        },
+        {
+          "trueRecipe": 2801391
+        },
+        {
+          "trueRecipe": 2801394
+        }
+      ]
+    },
+    {
+      "item": {
+        "id": 2801500,
+        "trueRecipe": 2801501
+      }
+    },
+    {
+      "item": {
+        "id": 2100010,
+        "trueRecipe": 2100011
+      }
+    },
+    {
+      "item": {
+        "id": 2110010,
+        "trueRecipe": 2110011
+      }
+    },
+    {
+      "item": {
+        "id": 2120010,
+        "trueRecipe": 2120011
+      }
+    },
+    {
+      "item": {
+        "id": 2130010,
+        "trueRecipe": 2130011
+      }
+    },
+    {
+      "item": {
+        "id": 2140010,
+        "trueRecipe": 2140011
+      }
+    },
+    {
+      "item": {
+        "id": 2150010,
+        "trueRecipe": 2150011
+      }
+    },
+    {
+      "item": {
+        "id": 2111010,
+        "trueRecipe": 2111011
+      }
+    },
+    {
+      "item": {
+        "id": 2112010,
+        "trueRecipe": 2112011
+      }
+    },
+    {
+      "item": {
+        "id": 2113010,
+        "trueRecipe": 2113011
+      }
+    },
+    {
+      "item": {
+        "id": 2131010,
+        "trueRecipe": 2131011
+      }
+    },
+    {
+      "item": {
+        "id": 2132010,
+        "trueRecipe": 2132011
+      }
+    },
+    {
+      "item": [
+        {
+          "id": 2170035
+        },
+        {
+          "trueRecipe": 2170036
+        },
+        {
+          "fakeRecipe": 2170039
+        },
+        {
+          "fakeRecipe": 2170042
+        },
+        {
+          "fakeRecipe": 2170045
+        },
+        {
+          "fakeRecipe": 2170048
+        },
+        {
+          "fakeRecipe": 2170051
+        }
+      ]
+    },
+    {
+      "item": {
+        "id": 2200010,
+        "trueRecipe": 2200011
+      }
+    },
+    {
+      "item": {
+        "id": 2210010,
+        "trueRecipe": 2210011
+      }
+    },
+    {
+      "item": {
+        "id": 2220010,
+        "trueRecipe": 2220011
+      }
+    },
+    {
+      "item": {
+        "id": 2230010,
+        "trueRecipe": 2230011
+      }
+    },
+    {
+      "item": {
+        "id": 2240010,
+        "trueRecipe": 2240011
+      }
+    },
+    {
+      "item": {
+        "id": 2250010,
+        "trueRecipe": 2250011
+      }
+    },
+    {
+      "item": {
+        "id": 2211010,
+        "trueRecipe": 2211011
+      }
+    },
+    {
+      "item": {
+        "id": 2212010,
+        "trueRecipe": 2212011
+      }
+    },
+    {
+      "item": {
+        "id": 2213010,
+        "trueRecipe": 2213011
+      }
+    },
+    {
+      "item": {
+        "id": 2231010,
+        "trueRecipe": 2231011
+      }
+    },
+    {
+      "item": {
+        "id": 2232010,
+        "trueRecipe": 2232011
+      }
+    },
+    {
+      "item": [
+        {
+          "id": 2270035
+        },
+        {
+          "trueRecipe": 2270036
+        },
+        {
+          "fakeRecipe": 2270039
+        },
+        {
+          "fakeRecipe": 2270042
+        },
+        {
+          "fakeRecipe": 2270045
+        },
+        {
+          "fakeRecipe": 2270048
+        },
+        {
+          "fakeRecipe": 2270051
+        }
+      ]
+    },
+    {
+      "item": {
+        "id": 2300010,
+        "trueRecipe": 2300011
+      }
+    },
+    {
+      "item": {
+        "id": 2310010,
+        "trueRecipe": 2310011
+      }
+    },
+    {
+      "item": {
+        "id": 2320010,
+        "trueRecipe": 2320011
+      }
+    },
+    {
+      "item": {
+        "id": 2330010,
+        "trueRecipe": 2330011
+      }
+    },
+    {
+      "item": {
+        "id": 2340010,
+        "trueRecipe": 2340011
+      }
+    },
+    {
+      "item": {
+        "id": 2350010,
+        "trueRecipe": 2350011
+      }
+    },
+    {
+      "item": {
+        "id": 2311010,
+        "trueRecipe": 2311011
+      }
+    },
+    {
+      "item": {
+        "id": 2312010,
+        "trueRecipe": 2312011
+      }
+    },
+    {
+      "item": {
+        "id": 2313010,
+        "trueRecipe": 2313011
+      }
+    },
+    {
+      "item": {
+        "id": 2331010,
+        "trueRecipe": 2331011
+      }
+    },
+    {
+      "item": {
+        "id": 2332010,
+        "trueRecipe": 2332011
+      }
+    },
+    {
+      "item": [
+        {
+          "id": 2370035
+        },
+        {
+          "trueRecipe": 2370036
+        },
+        {
+          "fakeRecipe": 2370039
+        },
+        {
+          "fakeRecipe": 2370042
+        },
+        {
+          "fakeRecipe": 2370045
+        },
+        {
+          "fakeRecipe": 2370048
+        },
+        {
+          "fakeRecipe": 2370051
+        }
+      ]
+    },
+    {
+      "item": {
+        "id": 2400010,
+        "trueRecipe": 2400011
+      }
+    },
+    {
+      "item": {
+        "id": 2410010,
+        "trueRecipe": 2410011
+      }
+    },
+    {
+      "item": {
+        "id": 2420010,
+        "trueRecipe": 2420011
+      }
+    },
+    {
+      "item": {
+        "id": 2430010,
+        "trueRecipe": 2430011
+      }
+    },
+    {
+      "item": {
+        "id": 2440010,
+        "trueRecipe": 2440011
+      }
+    },
+    {
+      "item": {
+        "id": 2450010,
+        "trueRecipe": 2450011
+      }
+    },
+    {
+      "item": {
+        "id": 2411010,
+        "trueRecipe": 2411011
+      }
+    },
+    {
+      "item": {
+        "id": 2412010,
+        "trueRecipe": 2412011
+      }
+    },
+    {
+      "item": {
+        "id": 2413010,
+        "trueRecipe": 2413011
+      }
+    },
+    {
+      "item": {
+        "id": 2431010,
+        "trueRecipe": 2431011
+      }
+    },
+    {
+      "item": {
+        "id": 2432010,
+        "trueRecipe": 2432011
+      }
+    },
+    {
+      "item": [
+        {
+          "id": 2470035
+        },
+        {
+          "trueRecipe": 2470036
+        },
+        {
+          "fakeRecipe": 2470039
+        },
+        {
+          "fakeRecipe": 2470042
+        },
+        {
+          "fakeRecipe": 2470045
+        },
+        {
+          "fakeRecipe": 2470048
+        },
+        {
+          "fakeRecipe": 2470051
+        }
+      ]
+    },
+    {
+      "item": {
+        "id": 2500010,
+        "trueRecipe": 2500011
+      }
+    },
+    {
+      "item": {
+        "id": 2510010,
+        "trueRecipe": 2510011
+      }
+    },
+    {
+      "item": {
+        "id": 2520010,
+        "trueRecipe": 2520011
+      }
+    },
+    {
+      "item": {
+        "id": 2530010,
+        "trueRecipe": 2530011
+      }
+    },
+    {
+      "item": {
+        "id": 2540010,
+        "trueRecipe": 2540011
+      }
+    },
+    {
+      "item": {
+        "id": 2550010,
+        "trueRecipe": 2550011
+      }
+    },
+    {
+      "item": {
+        "id": 2511010,
+        "trueRecipe": 2511011
+      }
+    },
+    {
+      "item": {
+        "id": 2512010,
+        "trueRecipe": 2512011
+      }
+    },
+    {
+      "item": {
+        "id": 2513010,
+        "trueRecipe": 2513011
+      }
+    },
+    {
+      "item": {
+        "id": 2531010,
+        "trueRecipe": 2531011
+      }
+    },
+    {
+      "item": {
+        "id": 2532010,
+        "trueRecipe": 2532011
+      }
+    },
+    {
+      "item": [
+        {
+          "id": 2570035
+        },
+        {
+          "trueRecipe": 2570036
+        },
+        {
+          "fakeRecipe": 2570039
+        },
+        {
+          "fakeRecipe": 2570042
+        },
+        {
+          "fakeRecipe": 2570045
+        },
+        {
+          "fakeRecipe": 2570048
+        },
+        {
+          "fakeRecipe": 2570051
+        }
+      ]
+    },
+    {
+      "item": {
+        "id": 2600010,
+        "trueRecipe": 2600011
+      }
+    },
+    {
+      "item": {
+        "id": 2610010,
+        "trueRecipe": 2610011
+      }
+    },
+    {
+      "item": {
+        "id": 2620010,
+        "trueRecipe": 2620011
+      }
+    },
+    {
+      "item": {
+        "id": 2630010,
+        "trueRecipe": 2630011
+      }
+    },
+    {
+      "item": {
+        "id": 2640010,
+        "trueRecipe": 2640011
+      }
+    },
+    {
+      "item": {
+        "id": 2650010,
+        "trueRecipe": 2650011
+      }
+    },
+    {
+      "item": {
+        "id": 2611010,
+        "trueRecipe": 2611011
+      }
+    },
+    {
+      "item": {
+        "id": 2612010,
+        "trueRecipe": 2612011
+      }
+    },
+    {
+      "item": {
+        "id": 2613010,
+        "trueRecipe": 2613011
+      }
+    },
+    {
+      "item": {
+        "id": 2631010,
+        "trueRecipe": 2631011
+      }
+    },
+    {
+      "item": {
+        "id": 2632010,
+        "trueRecipe": 2632011
+      }
+    },
+    {
+      "item": [
+        {
+          "id": 2670035
+        },
+        {
+          "trueRecipe": 2670036
+        },
+        {
+          "fakeRecipe": 2670039
+        },
+        {
+          "fakeRecipe": 2670042
+        },
+        {
+          "fakeRecipe": 2670045
+        },
+        {
+          "fakeRecipe": 2670048
+        },
+        {
+          "fakeRecipe": 2670051
+        }
+      ]
+    },
+    {
+      "item": {
+        "id": 2700010,
+        "trueRecipe": 2700011
+      }
+    },
+    {
+      "item": {
+        "id": 2710010,
+        "trueRecipe": 2710011
+      }
+    },
+    {
+      "item": {
+        "id": 2720010,
+        "trueRecipe": 2720011
+      }
+    },
+    {
+      "item": {
+        "id": 2730010,
+        "trueRecipe": 2730011
+      }
+    },
+    {
+      "item": {
+        "id": 2740010,
+        "trueRecipe": 2740011
+      }
+    },
+    {
+      "item": {
+        "id": 2750010,
+        "trueRecipe": 2750011
+      }
+    },
+    {
+      "item": {
+        "id": 2711010,
+        "trueRecipe": 2711011
+      }
+    },
+    {
+      "item": {
+        "id": 2712010,
+        "trueRecipe": 2712011
+      }
+    },
+    {
+      "item": {
+        "id": 2713010,
+        "trueRecipe": 2713011
+      }
+    },
+    {
+      "item": {
+        "id": 2731010,
+        "trueRecipe": 2731011
+      }
+    },
+    {
+      "item": {
+        "id": 2732010,
+        "trueRecipe": 2732011
+      }
+    },
+    {
+      "item": [
+        {
+          "id": 2770035
+        },
+        {
+          "trueRecipe": 2770036
+        },
+        {
+          "fakeRecipe": 2770039
+        },
+        {
+          "fakeRecipe": 2770042
+        },
+        {
+          "fakeRecipe": 2770045
+        },
+        {
+          "fakeRecipe": 2770048
+        },
+        {
+          "fakeRecipe": 2770051
+        }
+      ]
+    },
+    {
+      "item": {
+        "id": 2900100,
+        "trueRecipe": 2900101
+      }
+    },
+    {
+      "item": {
+        "id": 2900104,
+        "trueRecipe": 2900105
+      }
+    },
+    {
+      "item": {
+        "id": 2900108,
+        "trueRecipe": 2900109
+      }
+    },
+    {
+      "item": {
+        "id": 2900112,
+        "trueRecipe": 2900113
+      }
+    },
+    {
+      "item": {
+        "id": 2900116,
+        "trueRecipe": 2900117
+      }
+    },
+    {
+      "item": {
+        "id": 2900120,
+        "trueRecipe": 2900121
+      }
+    },
+    {
+      "item": {
+        "id": 2900124,
+        "trueRecipe": 2900125
+      }
+    },
+    {
+      "item": {
+        "id": 2900128,
+        "trueRecipe": 2900129
+      }
+    },
+    {
+      "item": {
+        "id": 2900132,
+        "trueRecipe": 2900133
+      }
+    },
+    {
+      "item": {
+        "id": 2900136,
+        "trueRecipe": 2900137
+      }
+    },
+    {
+      "item": {
+        "id": 2900140,
+        "trueRecipe": 2900141
+      }
+    },
+    {
+      "item": {
+        "id": 2900144,
+        "trueRecipe": 2900145
+      }
+    },
+    {
+      "item": {
+        "id": 2900148,
+        "trueRecipe": 2900149
+      }
+    },
+    {
+      "item": {
+        "id": 2900152,
+        "trueRecipe": 2900153
+      }
+    },
+    {
+      "item": {
+        "id": 2900156,
+        "trueRecipe": 2900157
+      }
+    },
+    {
+      "item": {
+        "id": 2900160,
+        "trueRecipe": 2900161
+      }
+    },
+    {
+      "item": {
+        "id": 2900164,
+        "trueRecipe": 2900165
+      }
+    },
+    {
+      "item": {
+        "id": 2900168,
+        "trueRecipe": 2900169
+      }
+    },
+    {
+      "item": {
+        "id": 2900172,
+        "trueRecipe": 2900173
+      }
+    },
+    {
+      "item": {
+        "id": 2900176,
+        "trueRecipe": 2900177
+      }
+    },
+    {
+      "item": {
+        "id": 2900180,
+        "trueRecipe": 2900181
+      }
+    },
+    {
+      "item": {
+        "id": 2900184,
+        "trueRecipe": 2900185
+      }
+    },
+    {
+      "item": {
+        "id": 2900188,
+        "trueRecipe": 2900189
+      }
+    },
+    {
+      "item": {
+        "id": 2900192,
+        "trueRecipe": 2900193
+      }
+    },
+    {
+      "item": {
+        "id": 2900196,
+        "trueRecipe": 2900197
+      }
+    },
+    {
+      "item": {
+        "id": 2900200,
+        "trueRecipe": 2900201
+      }
+    },
+    {
+      "item": {
+        "id": 2900204,
+        "trueRecipe": 2900205
+      }
+    },
+    {
+      "item": {
+        "id": 2900208,
+        "trueRecipe": 2900209
+      }
+    },
+    {
+      "item": {
+        "id": 2900212,
+        "trueRecipe": 2900213
+      }
+    },
+    {
+      "item": {
+        "id": 2900216,
+        "trueRecipe": 2900217
+      }
+    },
+    {
+      "item": {
+        "id": 2900220,
+        "trueRecipe": 2900221
+      }
+    },
+    {
+      "item": {
+        "id": 2900224,
+        "trueRecipe": 2900225
+      }
+    },
+    {
+      "item": {
+        "id": 2900228,
+        "trueRecipe": 2900229
+      }
+    },
+    {
+      "item": {
+        "id": 2900232,
+        "trueRecipe": 2900233
+      }
+    },
+    {
+      "item": {
+        "id": 2900236,
+        "trueRecipe": 2900237
+      }
+    },
+    {
+      "item": [
+        {
+          "id": 2900240
+        },
+        {
+          "trueRecipe": 2900241
+        },
+        {
+          "trueRecipe": 2900245
+        },
+        {
+          "trueRecipe": 2900249
+        },
+        {
+          "trueRecipe": 2900253
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2900256
+        },
+        {
+          "trueRecipe": 2900257
+        },
+        {
+          "trueRecipe": 2900261
+        },
+        {
+          "trueRecipe": 2900265
+        },
+        {
+          "trueRecipe": 2900269
+        }
+      ]
+    },
+    {
+      "item": [
+        {
+          "id": 2900272
+        },
+        {
+          "trueRecipe": 2900273
+        },
+        {
+          "trueRecipe": 2900277
+        },
+        {
+          "trueRecipe": 2900281
+        },
+        {
+          "trueRecipe": 2900285
+        }
+      ]
+    },
+    {
+      "item": {
+        "id": 2900018,
+        "trueRecipe": 2900037
+      }
+    },
+    {
+      "item": {
+        "id": 2900023,
+        "trueRecipe": 2900040
+      }
+    },
+    {
+      "item": {
+        "id": 2900024,
+        "trueRecipe": 2900043
+      }
+    },
+    {
+      "item": {
+        "id": 2901100,
+        "trueRecipe": 2901101
+      }
+    },
+    {
+      "item": {
+        "id": 2901104,
+        "trueRecipe": 2901105
+      }
+    },
+    {
+      "item": {
+        "id": 2901108,
+        "trueRecipe": 2901109
+      }
+    },
+    {
+      "item": {
+        "id": 2901112,
+        "trueRecipe": 2901113
+      }
+    },
+    {
+      "item": {
+        "id": 2901116,
+        "trueRecipe": 2901117
+      }
+    },
+    {
+      "item": {
+        "id": 2901120,
+        "trueRecipe": 2901121
+      }
+    },
+    {
+      "item": {
+        "id": 2901124,
+        "trueRecipe": 2901125
+      }
+    },
+    {
+      "item": {
+        "id": 2901128,
+        "trueRecipe": 2901129
+      }
+    },
+    {
+      "item": {
+        "id": 2901132,
+        "trueRecipe": 2901133
+      }
+    },
+    {
+      "item": {
+        "id": 2901136,
+        "trueRecipe": 2901137
+      }
+    },
+    {
+      "item": {
+        "id": 2901140,
+        "trueRecipe": 2901141
+      }
+    },
+    {
+      "item": {
+        "id": 2901144,
+        "trueRecipe": 2901145
+      }
+    },
+    {
+      "item": {
+        "id": 2901148,
+        "trueRecipe": 2901149
+      }
+    },
+    {
+      "item": {
+        "id": 2901152,
+        "trueRecipe": 2901153
+      }
+    },
+    {
+      "item": {
+        "id": 2901156,
+        "trueRecipe": 2901157
+      }
+    },
+    {
+      "item": {
+        "id": 2901160,
+        "trueRecipe": 2901161
+      }
+    },
+    {
+      "item": {
+        "id": 2901164,
+        "trueRecipe": 2901165
+      }
+    },
+    {
+      "item": {
+        "id": 2901168,
+        "trueRecipe": 2901169
+      }
+    },
+    {
+      "item": {
+        "id": 2901172,
+        "trueRecipe": 2901173
+      }
+    },
+    {
+      "item": {
+        "id": 2901176,
+        "trueRecipe": 2901177
+      }
+    },
+    {
+      "item": {
+        "id": 2901180,
+        "trueRecipe": 2901181
+      }
+    },
+    {
+      "item": {
+        "id": 2901184,
+        "trueRecipe": 2901185
+      }
+    },
+    {
+      "item": {
+        "id": 2901188,
+        "trueRecipe": 2901189
+      }
+    },
+    {
+      "item": {
+        "id": 2901192,
+        "trueRecipe": 2901193
+      }
+    },
+    {
+      "item": {
+        "id": 2901196,
+        "trueRecipe": 2901197
+      }
+    },
+    {
+      "item": {
+        "id": 2901200,
+        "trueRecipe": 2901201
+      }
+    },
+    {
+      "item": {
+        "id": 2901204,
+        "trueRecipe": 2901205
+      }
+    },
+    {
+      "item": {
+        "id": 2901208,
+        "trueRecipe": 2901209
+      }
+    },
+    {
+      "item": {
+        "id": 2901212,
+        "trueRecipe": 2901213
+      }
+    },
+    {
+      "item": {
+        "id": 2901216,
+        "trueRecipe": 2901217
+      }
+    },
+    {
+      "item": {
+        "id": 2901220,
+        "trueRecipe": 2901221
+      }
+    },
+    {
+      "item": {
+        "id": 2901224,
+        "trueRecipe": 2901225
+      }
+    },
+    {
+      "item": {
+        "id": 2901228,
+        "trueRecipe": 2901229
+      }
+    },
+    {
+      "item": {
+        "id": 2901232,
+        "trueRecipe": 2901233
+      }
+    },
+    {
+      "item": {
+        "id": 2901236,
+        "trueRecipe": 2901237
+      }
+    },
+    {
+      "item": {
+        "id": 2901240,
+        "trueRecipe": 2901241
+      }
+    },
+    {
+      "item": {
+        "id": 2901244,
+        "trueRecipe": 2901245
+      }
+    },
+    {
+      "item": {
+        "id": 2901248,
+        "trueRecipe": 2901249
+      }
+    },
+    {
+      "item": {
+        "id": 2901252,
+        "trueRecipe": 2901253
+      }
+    },
+    {
+      "item": {
+        "id": 2901256,
+        "trueRecipe": 2901257
+      }
+    },
+    {
+      "item": {
+        "id": 2901260,
+        "trueRecipe": 2901261
+      }
+    },
+    {
+      "item": {
+        "id": 2901264,
+        "trueRecipe": 2901265
+      }
+    },
+    {
+      "item": {
+        "id": 2901268,
+        "trueRecipe": 2901269
+      }
+    },
+    {
+      "item": {
+        "id": 2901272,
+        "trueRecipe": 2901273
+      }
+    },
+    {
+      "item": {
+        "id": 2901276,
+        "trueRecipe": 2901277
+      }
+    },
+    {
+      "item": [
+        {
+          "id": 2901049
+        },
+        {
+          "trueRecipe": 2901050
+        },
+        {
+          "trueRecipe": 2901053
+        },
+        {
+          "trueRecipe": 2901056
+        },
+        {
+          "trueRecipe": 2901059
+        }
+      ]
+    },
+    {
+      "item": {
+        "id": 2901012,
+        "trueRecipe": 2901062
+      }
+    }
+  ],
+  "effectOnStartCraftPresets": {
+    "rocketLaunch": {
+      "showImage": "https://static-ggc.gaijin.net/events/craft_space_race/main_rocket_launch.jpg",
+      "imageRatio": 1.333,
+      "playSound": "craft_event_rocket_launch",
+      "showTimeSec": 5
+    }
+  },
+  "effectOnOpenChestPresets": {
+    "wargameAssaultBase": {
+      "showImage": "https://static-ggc.gaijin.net/events/craft_board_wargame/craft_win.jpg",
+      "imageRatio": 1.333,
+      "playSound": "craft_event_win",
+      "showTimeSec": 6
+    },
+    "capsuleLanding": {
+      "showImage": "https://static-ggc.gaijin.net/events/craft_space_race/main_capsule_landing.jpg",
+      "imageRatio": 1.333,
+      "playSound": "craft_event_capsule_landing",
+      "showTimeSec": 4
+    }
+  },
+  "customLocalizationPresets": {
+    "default": {
+      "msgBoxConfirmWhithItemName": "msgBox/assembleItem/confirm",
+      "actionButton": "item/assemble"
+    },
+    "wargameMaxSdKfz": {
+      "reachedMaxAmount": "boardWargame/reachedMaxAmount/sdkfz_251_10",
+      "maxAmountIcon": ""
+    },
+    "wargameMaxLubeck": {
+      "reachedMaxAmount": "boardWargame/reachedMaxAmount/frigate_koln_lubeck",
+      "maxAmountIcon": ""
+    },
+    "wargameSabotageBuilding": {
+      "assemble": "wargameSabotageBuilding/item/recipes",
+      "recipes": "wargameSabotageBuilding/item/recipes",
+      "descReceipesListHeaderPrefix": "wargameSabotageBuilding/item/requires/",
+      "msgBoxCantUse": "wargameSabotageBuilding/msgBox/assembleItem/cant",
+      "msgBoxConfirmWhithItemName": "wargameSabotageBuilding/msgBox/assembleItem/confirm",
+      "craftCountdown": "wargameSabotageBuilding/items/craft_process/countdown",
+      "headerRecipesList": "wargameSabotageBuilding/item/create_header",
+      "craftingIconInAmmount": "worldWar/iconBattle",
+      "craftResultIconInAmmount": "wargameSabotageBuilding/craftResultIconInAmmount",
+      "createRecipes": "wargameSabotageBuilding/item/create_recipes",
+      "craftTime": "wargameSabotageBuilding/msgBox/assembleItem/time",
+      "reachedMaxAmount": "wargameSabotageBuilding/item/reached_max_amount"
+    },
+    "wargameSabotageBuildingProcess": {
+      "cancelTitle": "wargameSabotageBuilding/mainmenu/craftCanceled/title",
+      "craftTime": "wargameSabotageBuilding/msgBox/assembleItem/time",
+      "rewardTitle": "wargameSabotageBuilding/mainmenu/itemAssembled/title",
+      "msgBoxCantUse": "wargameSabotageBuilding/msgBox/cancelCraftProcess/cant",
+      "msgBoxConfirm": "wargameSabotageBuilding/msgBox/cancelCraftProcess/confirm",
+      "headerRecipeMarkup": "wargameSabotageBuilding/msgBox/items_will_be_spent"
+    },
+    "wargameFreeGroup": {
+      "assemble": "wargameFreeGroup/item/recipes",
+      "recipes": "wargameFreeGroup/item/recipes",
+      "descReceipesListHeaderPrefix": "wargameFreeGroup/item/requires/",
+      "msgBoxCantUse": "wargameFreeGroup/msgBox/assembleItem/cant",
+      "msgBoxConfirmWhithItemName": "wargameFreeGroup/msgBox/assembleItem/confirm",
+      "craftCountdown": "wargameFreeGroup/items/craft_process/countdown",
+      "headerRecipesList": "wargameFreeGroup/item/create_header",
+      "craftingIconInAmmount": "worldWar/iconBattle",
+      "craftResultIconInAmmount": "icon/tutorial",
+      "createRecipes": "wargameFreeGroup/item/create_recipes",
+      "craftTime": "wargameFreeGroup/msgBox/assembleItem/time",
+      "reachedMaxAmount": "wargameFreeGroup/item/reached_max_amount"
+    },
+    "wargameFreeGroupProcess": {
+      "cancelTitle": "wargameFreeGroup/mainmenu/craftCanceled/title",
+      "craftTime": "wargameFreeGroup/msgBox/assembleItem/time",
+      "rewardTitle": "wargameFreeGroup/mainmenu/itemAssembled/title",
+      "msgBoxCantUse": "wargameFreeGroup/msgBox/cancelCraftProcess/cant",
+      "msgBoxConfirm": "wargameFreeGroup/msgBox/cancelCraftProcess/confirm",
+      "headerRecipeMarkup": "wargameFreeGroup/msgBox/items_will_be_spent"
+    },
+    "wargameAttackEnemy": {
+      "assemble": "wargameAttack/item/recipes",
+      "recipes": "wargameAttack/item/recipes/choose",
+      "descReceipesListHeaderPrefix": "wargameAttack/item/requires/",
+      "msgBoxCantUse": "wargameAttack/msgBox/assembleItem/cant",
+      "msgBoxConfirmWhithItemName": "wargameAttack/msgBox/assembleItem/confirm",
+      "craftCountdown": "wargameAttack/items/craft_process/countdown",
+      "headerRecipesList": "wargameAttack/item/create_header",
+      "craftingIconInAmmount": "worldWar/iconBattle",
+      "craftResultIconInAmmount": "hud/iconRevenge",
+      "createRecipes": "wargameAttack/item/create_recipes",
+      "craftTime": "wargameAttack/msgBox/assembleItem/time",
+      "reachedMaxAmount": "wargameAttack/item/reached_max_amount",
+      "maxAmountIcon": ""
+    },
+    "wargameAttackEnemyProcess": {
+      "cancelTitle": "wargameAttack/mainmenu/craftCanceled/title",
+      "craftTime": "wargameAttack/msgBox/assembleItem/time",
+      "rewardTitle": "wargameAttack/mainmenu/itemAssembled/title",
+      "msgBoxCantUse": "wargameAttack/msgBox/cancelCraftProcess/cant",
+      "msgBoxConfirm": "wargameAttack/msgBox/cancelCraftProcess/confirm",
+      "headerRecipeMarkup": "wargameAttack/msgBox/items_will_be_spent"
+    },
+    "wargameAssaultBase": {
+      "assemble": "wargameAssaultBase/item/recipes",
+      "recipes": "wargameAssaultBase/item/recipes",
+      "descReceipesListHeaderPrefix": "wargameAssaultBase/item/requires/",
+      "msgBoxCantUse": "wargameAssaultBase/msgBox/assembleItem/cant",
+      "msgBoxConfirmWhithItemName": "wargameAssaultBase/msgBox/assembleItem/confirm",
+      "craftCountdown": "wargameAssaultBase/items/craft_process/countdown",
+      "headerRecipesList": "wargameAssaultBase/item/create_header",
+      "craftingIconInAmmount": "worldWar/iconBattle",
+      "craftResultIconInAmmount": "hud/iconRevenge",
+      "createRecipes": "wargameAssaultBase/item/create_recipes",
+      "craftTime": "wargameAssaultBase/msgBox/assembleItem/time",
+      "reachedMaxAmount": "wargameAssaultBase/item/reached_max_amount"
+    },
+    "wargameAssaultBaseProcess": {
+      "cancelTitle": "wargameAssaultBase/mainmenu/craftCanceled/title",
+      "craftTime": "wargameAssaultBase/msgBox/assembleItem/time",
+      "rewardTitle": "wargameAssaultBase/mainmenu/itemAssembled/title",
+      "msgBoxCantUse": "wargameAssaultBase/msgBox/cancelCraftProcess/cant",
+      "msgBoxConfirm": "wargameAssaultBase/msgBox/cancelCraftProcess/confirm",
+      "headerRecipeMarkup": "wargameAssaultBase/msgBox/items_will_be_spent"
+    },
+    "spaceFlightMaxSdKfz": {
+      "reachedMaxAmount": "spaceFlight/reachedMaxAmount/sdkfz_234_1"
+    },
+    "spaceFlightMaxSgb": {
+      "reachedMaxAmount": "spaceFlight/reachedMaxAmount/sgb_309"
+    },
+    "spaceFlight": {
+      "assemble": "spaceFlight/item/recipes",
+      "recipes": "spaceFlight/item/recipes",
+      "descReceipesListHeaderPrefix": "spaceFlight/item/requires/",
+      "msgBoxCantUse": "spaceFlight/msgBox/assembleItem/cant",
+      "msgBoxConfirmWhithItemName": "spaceFlight/msgBox/assembleItem/confirm",
+      "craftCountdown": "spaceFlight/items/craft_process/countdown",
+      "headerRecipesList": "spaceFlight/item/create_header",
+      "craftingIconInAmmount": "icon/hud_msg_mp_dmg/rocket",
+      "createRecipes": "spaceFlight/item/create_recipes"
+    },
+    "spaceFlightCraftProcess": {
+      "cancelTitle": "spaceFlight/mainmenu/craftCanceled/title",
+      "craftTime": "spaceFlight/msgBox/assembleItem/time",
+      "rewardTitle": "spaceFlight/mainmenu/itemAssembled/title",
+      "msgBoxCantUse": "spaceFlight/msgBox/cancelCraftProcess/cant",
+      "msgBoxConfirm": "spaceFlight/msgBox/cancelCraftProcess/confirm"
+    },
+    "instantCraft": {
+      "msgBoxConfirmWhithItemName": "msgBox/assembleItem/confirm/instant",
+      "actionButton": "item/assemble/instant"
+    },
+    "itemExamination": {
+      "disassemble": "item/examine",
+      "descReceipesListHeaderPrefix": "item/requires/examination/",
+      "msgBoxCantUse": "msgBox/examineItem/cant",
+      "msgBoxConfirm": "msgBox/cancelExamination/confirm",
+      "msgBoxConfirmWhithItemName": "msgBox/examineItem/confirm",
+      "msgBoxConfirmWhithItemNameDisassemble": "msgBox/examineItem/confirmWhithItemName",
+      "craftCountdown": "items/craft_process/countdown/examination",
+      "craftingIconInAmmount": "icon/search",
+      "cancelTitle": "mainmenu/craftCanceled/title/examination",
+      "craftTime": "msgBox/examineItem/time",
+      "rewardTitle": "mainmenu/itemExamined/title"
+    },
+    "quizDiagnostics": {
+      "assemble": "item/quiz_answer",
+      "tryCreateRecipes": "item/try_create_recipes/quiz_diagnostics",
+      "recipes": "item/quiz_answers",
+      "msgBoxConfirm": "msgBox/quiz_cancel_check/confirm",
+      "msgBoxConfirmWhithItemName": "msgBox/quiz_answer/confirm",
+      "rewardTitle": "mainmenu/quiz_answered/title",
+      "cancelTitle": "mainmenu/quiz_canceled/title",
+      "craftingIconInAmmount": "icon/news",
+      "headerRecipeMarkup": "msgBox/quiz_selected_answer",
+      "headerRecipesList": "item/create_header/quiz_diagnostics",
+      "craftCountdown": "items/quiz_answered/countdown",
+      "markMsgBoxCantUsePrefix": "msgBox/quiz_answered/cant/",
+      "craftTime": "msgBox/quiz_answer/time",
+      "markTooltipPrefix": "item/quiz_answers/markTooltip/",
+      "craftFinishedTitlePrefix": "mainmenu/quiz_answered/title/"
+    }
+  },
+  "itemMarkingPresets": {
+    "marketableIcon": {
+      "color": "#f1f1d6",
+      "markIconLocId": "currency/gc/sign",
+      "additionalDesc": ""
+    },
+    "building": {
+      "color": "#f1f1d6",
+      "markIconLocId": "workshop/itemMarkingPresets/building/icon",
+      "additionalDesc": "workshop/itemMarkingPresets/building/desc"
+    },
+    "defeatedEnemyUnit": {
+      "color": "#ff4b38",
+      "markIconLocId": "",
+      "additionalDesc": "workshop/itemMarkingPresets/defeatedEnemyUnit/desc"
+    },
+    "rocketWithoutFuel": {
+      "color": "#ff4b38",
+      "markIconLocId": "",
+      "additionalDesc": "workshop/itemMarkingPresets/rocketWithoutFuel/desc"
+    },
+    "rocketReadyToLaunch": {
+      "color": "#20F020",
+      "markIconLocId": "",
+      "additionalDesc": "workshop/itemMarkingPresets/rocketReadyToLaunch/desc"
+    },
+    "shipStructures": {
+      "color": "#808000",
+      "markIconLocId": "workshop/itemMarkingPresets/shipStructures/icon",
+      "additionalDesc": "workshop/itemMarkingPresets/shipStructures/desc"
+    },
+    "shipSystems": {
+      "color": "#4682b4",
+      "markIconLocId": "workshop/itemMarkingPresets/shipSystems/icon",
+      "additionalDesc": "workshop/itemMarkingPresets/shipSystems/desc"
+    },
+    "shipDevices": {
+      "color": "#2e8b57",
+      "markIconLocId": "workshop/itemMarkingPresets/shipDevices/icon",
+      "additionalDesc": "workshop/itemMarkingPresets/shipDevices/desc"
+    },
+    "shipStructuresImproved": {
+      "color": "#808000",
+      "markIconLocId": "workshop/itemMarkingPresets/shipStructuresImproved/icon",
+      "additionalDesc": "workshop/itemMarkingPresets/shipStructuresImproved/desc"
+    },
+    "shipSystemsImproved": {
+      "color": "#4682b4",
+      "markIconLocId": "workshop/itemMarkingPresets/shipSystemsImproved/icon",
+      "additionalDesc": "workshop/itemMarkingPresets/shipSystemsImproved/desc"
+    },
+    "shipDevicesImproved": {
+      "color": "#2e8b57",
+      "markIconLocId": "workshop/itemMarkingPresets/shipDevicesImproved/icon",
+      "additionalDesc": "workshop/itemMarkingPresets/shipDevicesImproved/desc"
+    },
+    "brokenItem": {
+      "color": "#ff8989",
+      "markIconLocId": "icon/hud_msg_mp_dmg/crash_t",
+      "additionalDesc": "workshop/itemMarkingPresets/brokenItem"
+    },
+    "brokenPart": {
+      "color": "#ff8989",
+      "markIconLocId": "icon/hud_msg_mp_dmg/crash_t",
+      "additionalDesc": "workshop/itemMarkingPresets/brokenPart"
+    },
+    "brokenDetail": {
+      "color": "#ff8989",
+      "markIconLocId": "icon/gear_broken",
+      "additionalDesc": "workshop/itemMarkingPresets/brokenDetail"
+    },
+    "unexaminedItem": {
+      "color": "#e6fbff",
+      "markIconLocId": "icon/search",
+      "additionalDesc": "workshop/itemMarkingPresets/unexaminedItem"
+    },
+    "newWorkingDetail": {
+      "color": "#89ff89",
+      "markIconLocId": "icon/gear",
+      "additionalDesc": "workshop/itemMarkingPresets/newWorkingDetail"
+    }
+  }
+}
